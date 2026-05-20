@@ -40,3 +40,7 @@ Sistem için temel olarak 4 ana tablo ve 1 kullanıcı giriş tablosu kullanılm
 
 <img width="1173" height="893" alt="Ekran görüntüsü 2026-05-21 010712" src="https://github.com/user-attachments/assets/12fc2485-b265-4e96-95a9-1247cc9ebf59" />
 
+Hazırlayan:
+Münevver Özlem BAYKARA 
+2024212014
+Yönetim Bilişim Sistemleri 2.Sınıf 
