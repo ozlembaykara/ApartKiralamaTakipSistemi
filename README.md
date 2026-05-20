@@ -38,4 +38,5 @@ Sistem için temel olarak 4 ana tablo ve 1 kullanıcı giriş tablosu kullanılm
 
 <img width="1166" height="893" alt="Ekran görüntüsü 2026-05-21 002834" src="https://github.com/user-attachments/assets/6826a389-ca8f-4a34-99d2-5bd3c6e05f2a" />
 
-<img width="1145" height="892" alt="Ekran görüntüsü 2026-05-20 235358" src="https://github.com/user-attachments/assets/2b23ed0e-b38e-485a-9c36-4875cefe34a0" />
+<img width="1173" height="893" alt="Ekran görüntüsü 2026-05-21 010712" src="https://github.com/user-attachments/assets/12fc2485-b265-4e96-95a9-1247cc9ebf59" />
+
