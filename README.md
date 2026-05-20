@@ -1,5 +1,3 @@
-<img width="1166" height="893" alt="Ekran görüntüsü 2026-05-21 002834" src="https://github.com/user-attachments/assets/afb437de-c857-44fd-94df-9adc6a2a3bd2" />
-<img width="1166" height="893" alt="Ekran görüntüsü 2026-05-21 002834" src="https://github.com/user-attachments/assets/c0f4cfff-6366-42b3-9987-2887cbe689ee" />
 # ApartKiralamaTakipSistemi
 
 ## 📖 Projenin Tanımı
@@ -37,5 +35,7 @@ Sistem için temel olarak 4 ana tablo ve 1 kullanıcı giriş tablosu kullanılm
 4. `Form1.cs` içerisindeki `connectionString` (bağlantı dizesi) değişkenini kendi yerel veritabanı sunucu ayarlarınıza göre güncelleyin.
 5. Projeyi (Start/F5) çalıştırarak apart yönetim işlemlerini test etmeye başlayın.
 
-<img width="1145" height="892" alt="Ekran görüntüsü 2026-05-20 235358" src="https://github.com/user-attachments/assets/fa187204-781a-4fb9-85be-7fa214f49867" />
+<img width="1145" height="892" alt="Ekran görüntüsü 2026-05-20 235358" src=<img width="1918" height="1017" alt="Ekran görüntüsü 2026-05-21 002809" src="https://github.com/user-attachments/assets/28c7f42a-fce9-4cee-ae13-b571313a3af8" />
+"https://github.com/user-attachments/assets/fa187204-781a-4fb9-85be-7fa214f49867" />
+<img width="1166" height="893" alt="Ekran görüntüsü 2026-05-21 002834" src="https://github.com/user-attachments/assets/6826a389-ca8f-4a34-99d2-5bd3c6e05f2a" />
 
