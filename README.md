@@ -1,3 +1,5 @@
+<img width="1166" height="893" alt="Ekran görüntüsü 2026-05-21 002834" src="https://github.com/user-attachments/assets/afb437de-c857-44fd-94df-9adc6a2a3bd2" />
+<img width="1166" height="893" alt="Ekran görüntüsü 2026-05-21 002834" src="https://github.com/user-attachments/assets/c0f4cfff-6366-42b3-9987-2887cbe689ee" />
 # ApartKiralamaTakipSistemi
 
 ## 📖 Projenin Tanımı
