@@ -35,4 +35,5 @@ Sistem için temel olarak 4 ana tablo ve 1 kullanıcı giriş tablosu kullanılm
 4. `Form1.cs` içerisindeki `connectionString` (bağlantı dizesi) değişkenini kendi yerel veritabanı sunucu ayarlarınıza göre güncelleyin.
 5. Projeyi (Start/F5) çalıştırarak apart yönetim işlemlerini test etmeye başlayın.
 
-C:\Users\Emirhan\Pictures\Screenshots\Ekran görüntüsü 2026-05-20 235358.png
+<img width="1145" height="892" alt="Ekran görüntüsü 2026-05-20 235358" src="https://github.com/user-attachments/assets/fa187204-781a-4fb9-85be-7fa214f49867" />
+
